@@ -44,15 +44,6 @@ class BO():
                 arr_samples = np.vstack((arr_samples, list_cur_samples))
         return arr_samples
 
-    '''
-    def _get_sobol_seq(self, num_samples):
-        num_range = self.arr_range.shape[0]
-        cur_seed = np.random.randint(0, 1000)
-        arr_samples = sobol_seq.i4_sobol_generate(num_range, num_samples, cur_seed)
-        arr_samples = arr_samples * (self.arr_range[:, 1].flatten() - self.arr_range[:, 0].flatten()) + self.arr_range[:, 0].flatten()
-        return arr_samples
-    '''
-
     # TODO: is_grid is not appropriate expression
     def _get_initial(self, is_random=False, is_grid=False, fun_obj=None, int_seed=None):
         if is_random and not is_grid:
