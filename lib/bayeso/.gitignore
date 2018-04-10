@@ -15,7 +15,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-#lib/
+lib/
 lib64/
 parts/
 sdist/
@@ -101,6 +101,8 @@ ENV/
 .mypy_cache/
 
 # JT
+*.swp
 .DS_Store
 __MACOSX/
-*.swp
+results/
+
