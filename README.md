@@ -1,5 +1,5 @@
 # automl-challenge-2018
-This project took second place in AutoML Challenge 2018 at the 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2018)
+This project took second place in AutoML Challenge 2018 at the 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2018).
 
 ## Author
 * [Jungtaek Kim](http://mlg.postech.ac.kr/~jtkim/)
