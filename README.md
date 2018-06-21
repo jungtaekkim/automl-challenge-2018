@@ -3,7 +3,7 @@ This project took second place in AutoML Challenge 2018 at the 22nd Pacific-Asia
 
 ## Author
 * [Jungtaek Kim](http://mlg.postech.ac.kr/~jtkim/)
-* [Seungjin Choi](http://mlg.postech.ac.kr/~seungjin/)\
+* [Seungjin Choi](http://mlg.postech.ac.kr/~seungjin/)
 
 ## Affiliation
 Department of Computer Science and Engineering, Pohang University of Science and Technology
