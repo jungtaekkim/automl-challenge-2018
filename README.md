@@ -12,7 +12,7 @@ Department of Computer Science and Engineering, Pohang University of Science and
 
 ```
 @inproceedings{Kim2018automl,
-  title="Demo: Automated Machine Learning for Soft Voting in an Ensemble of Tree-based Classifiers",
+  title="Automated Machine Learning for Soft Voting in an Ensemble of Tree-based Classifiers",
   author="J. Kim and S. Choi",
   booktitle="International Workshop on Automatic Machine Learning at ICML/IJCAI-ECAI",
   year="2018",
